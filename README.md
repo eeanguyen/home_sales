@@ -30,7 +30,3 @@ This project analyzes home sales data using PySpark and SparkSQL. It explores va
 - Efficient data handling with PySpark for large datasets.
 - SQL-style querying with SparkSQL for structured analysis.
 - Performance measurement for queries, demonstrating Spark's capability for handling substantial data volumes.
-
-## License
-
-This project is licensed under the MIT License.
